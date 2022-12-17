@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6495ED&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Daniel+Pontes;I'm+27+years+old;I'm+from+Brazil;I+Graduating+Systems+For+Internet;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 ## Olá me chamo Daniel Pontes! 👋
 - 🔭 Sou formado em Engenharia de Controle e Automação e sou tecnico em Eletrotécnica.
 - 🌱 Atualmente estou apredendo Python, HTML e CSS!
@@ -20,7 +24,8 @@
   <img align="center" alt="Dam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dam-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <--<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"--> src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"src="https://user-images.githubusercontent.com/112348645/208267044-20be5231-0a0b-4502-af12-ed3592f6f743.gif">
+ 
 </div>
   
   ##
@@ -34,3 +39,5 @@
   ![Snake animation](https://github.com/danielpqueiroz/danielpqueiroz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer"/>
